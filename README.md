@@ -1,24 +1,21 @@
-# app-look
+# Коллекция игр на Vue.JS // NortekSpace Practice
 
-## Project setup
+### Распакуйте в любое удобное для Вас место
+
+#### В кореной директории проекта примените команду:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Для запуска проекта в режиме разработки используйте:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Для компиляции приложения используйте:
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### Разработка
+https://nortek.space
