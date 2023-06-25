@@ -1,5 +1,5 @@
 <template>
-    <header class="text-white p-6 px-12">
+    <header class="text-white p-6 px-56">
         <div class="w-full max-h-[80px] flex justify-between items-center">
             <div class="logo">
                 <router-link to="/"><img src="../assets/logo-applock.svg" alt="Логотип" class="w-[150px]"></router-link>
